@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net" modified="2023-05-08T04:55:50.334Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.2.9" etag="efpd_KihoJ60QztXn6_l" type="github">
+  <diagram name="Page-1" id="IS8EOn0EV2J6sODHtoJ8">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="" style="ellipse;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="272" y="8" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Home" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="250" y="72" width="56" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="ViewTodoList" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="324" y="175" width="110" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="AddTodoItem" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="124" y="175" width="109" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="EditTodoItem" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="392" y="278" width="110" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="" style="curved=1;startArrow=none;;exitX=0.4681919642857143;exitY=1;entryX=0.5099051339285714;entryY=0;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8" value="View List" style="curved=1;startArrow=none;;exitX=0.804427444521498;exitY=1;entryX=0.34537386915269197;entryY=0;" edge="1" parent="1" source="3" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="329" y="141" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9" value="Add Item" style="curved=1;startArrow=none;;exitX=0.006905691964285714;exitY=0.7849978895667855;entryX=0.3509765798966776;entryY=0;" edge="1" parent="1" source="3" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="129" y="141" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" value="Edit Item" style="curved=1;startArrow=none;;exitX=0.006905691964285714;exitY=0.6796116575288932;entryX=0.00046164772727272726;entryY=0.29550821801389554;" edge="1" parent="1" source="3" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="41" y="141" />
+              <mxPoint x="41" y="244" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11" value="Return Home" style="curved=1;startArrow=none;;exitX=0.645251130847308;exitY=0;entryX=1.0129045758928572;entryY=0.7846413915421534;" edge="1" parent="1" source="4" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="428" y="141" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" value="Edit Item" style="curved=1;startArrow=none;;exitX=0.4953125;exitY=1;entryX=0.2934172964474845;entryY=0;" edge="1" parent="1" source="4" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="378" y="244" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13" value="Return Home" style="curved=1;startArrow=none;;exitX=0.7487074553177406;exitY=0;entryX=1.0129045758928572;entryY=0.6695468026085353;" edge="1" parent="1" source="6" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="244" />
+              <mxPoint x="530" y="141" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14" value="Return to List" style="curved=1;startArrow=none;;exitX=0.955991077338923;exitY=0;entryX=0.99453125;entryY=0.876726912834026;" edge="1" parent="1" source="6" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="599" y="244" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15" value="Return Home" style="curved=1;startArrow=none;;exitX=0.6530371815712124;exitY=0;entryX=0.21538282333564496;entryY=1;" edge="1" parent="1" source="5" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="229" y="141" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

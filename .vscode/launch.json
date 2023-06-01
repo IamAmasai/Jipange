@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "ToDoFlutter-main",
+            "cwd": "ToDoFlutter-main",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "ToDoFlutter-main (profile mode)",
+            "cwd": "ToDoFlutter-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "ToDoFlutter-main (release mode)",
+            "cwd": "ToDoFlutter-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
